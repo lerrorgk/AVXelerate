@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE.txt](https://g
 [license-shield]: https://img.shields.io/github/license/lerrorgk/AVXelerate.svg?style=flat-square
 [license-url]: https://github.com/lerrorgk/AVXelerate/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shaojintian
+[linkedin-url]: https://www.linkedin.com/in/honglie-li-471455248/
