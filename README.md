@@ -32,7 +32,7 @@ AVXelerate is a high-performance mathematical library that optimizes functions s
     ·
     <a href="https://github.com/lerrorgk/AVXelerate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lerrorgk/AVXelerate/README_zh.md">中文</a>
+    <a href="https://github.com/lerrorgk/AVXelerate/blob/main/README_zh.md">中文</a>
   </p>
 
 </p>
