@@ -2,7 +2,7 @@
 
 # AVXelerate
 
-AVXelerate是一个高性能的数学库，专门利用AVX2指令集优化了exp, log, tanh, 和sigmoid等数学函数。本项目旨在为需要高速数学运算的应用提供有效的加速方案，充分发挥AVX2的高级计算能力。
+AVXelerate is a high-performance mathematical library that optimizes functions such as exp, log, tanh, and sigmoid using the AVX2 instruction set. This project is designed to provide effective acceleration solutions for applications requiring fast mathematical operations, fully utilizing the advanced computational capabilities of AVX2.
 
 <!-- PROJECT SHIELDS -->
 
@@ -21,16 +21,16 @@ AVXelerate是一个高性能的数学库，专门利用AVX2指令集优化了exp
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">让 exp, log, tanh, 和 sigmoid 运算更加高效快速!</h3>
+  <h3 align="center">Make exp, log, tanh, and sigmoid Computations More Efficient and Faster!</h3>
   <p align="center">
-    利用AVX2优化，实现数学运算的极速提升
+     Achieve rapid improvement in mathematical operations through AVX2 optimization.
     <br />
-    <a href="https://github.com/lerrorgk/AVXelerate"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/lerrorgk/AVXelerate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lerrorgk/AVXelerate/">查看Demo</a>
+    <a href="https://github.com/lerrorgk/AVXelerate/">View Demo</a>
     ·
-    <a href="https://github.com/lerrorgk/AVXelerate/issues">报告Bug</a>
+    <a href="https://github.com/lerrorgk/AVXelerate/issues">Report Bug</a>
     ·
     <a href="https://github.com/lerrorgk/AVXelerate/README_zh.md">中文</a>
   </p>
@@ -39,32 +39,33 @@ AVXelerate是一个高性能的数学库，专门利用AVX2指令集优化了exp
 
 
  
-## 目录
+## Table of Contents
 
-- [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
-- [作者](#作者)
-- [鸣谢](#鸣谢)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgments)
 
-### 上手指南
+### Getting Started
 
-###### 开发前的配置要求
-
-
-
-###### **安装步骤**
+###### Prerequisites
 
 
-### 作者
+
+###### **Installation Steps**
+
+
+### Authors
 
 lerrorgk
 
-### 版权说明
+### License
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/lerrorgk/AVXelerate/blob/master/LICENSE.txt)
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/lerrorgk/AVXelerate/blob/master/LICENSE.txt) file for details
 
-### 鸣谢
+### Acknowledgments
+
 
 - [Choose an Open Source License](https://choosealicense.com)
 
