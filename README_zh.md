@@ -32,7 +32,7 @@ AVXelerate是一个高性能的数学库，专门利用AVX2指令集优化了exp
     ·
     <a href="https://github.com/lerrorgk/AVXelerate/issues">报告Bug</a>
     ·
-    <a href="https://github.com/lerrorgk/AVXelerate/README_zh.md">中文</a>
+    <a href="https://github.com/lerrorgk/AVXelerate/README.md">English</a>
   </p>
 
 </p>
